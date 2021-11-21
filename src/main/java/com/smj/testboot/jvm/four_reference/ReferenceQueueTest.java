@@ -6,6 +6,8 @@ import java.lang.ref.SoftReference;
 import java.util.ArrayList;
 import java.util.List;
 
+
+// 要自己设置内存  不然不会触发gc
 public class ReferenceQueueTest {
 
 
